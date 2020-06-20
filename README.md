@@ -60,7 +60,7 @@ This project is licensed under MIT
 ![Demo](public/Assets/demo.gif)
 
 ## Video
-https://joshb4u.github.io/online-offline-budget-tracker/Assets/demo.mp4
+https://joshb4u.github.io/online-offline-budget-tracker/public/Assets/demo.mp4
 
 
 ## Deployed Heroku URL
